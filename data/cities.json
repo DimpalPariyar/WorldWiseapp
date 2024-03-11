@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Kolhapur",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-12-19T07:29:30.331Z",
+      "notes": "dolly",
+      "position": {
+        "lat": "16.705401323170143",
+        "lng": "74.24571671409699"
+      },
+      "id": 98443205
+    },
+    {
+      "cityName": "Mumbai",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-12-19T07:37:39.695Z",
+      "notes": "i love mumbai",
+      "position": {
+        "lat": "19.074511268004933",
+        "lng": "72.89328639348508"
+      },
+      "id": 98443207
+    },
+    {
+      "cityName": "Satara",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-12-19T07:38:11.465Z",
+      "notes": "",
+      "position": {
+        "lat": "17.697712480807763",
+        "lng": "73.9919933596055"
+      },
+      "id": 98443208
+    }
+  ]
+}
